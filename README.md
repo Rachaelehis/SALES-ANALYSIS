@@ -12,14 +12,6 @@ The project uses a CSV file ['SALES_DATA.csv'](https://github.com/Rachaelehis/SA
 - Revenue generated per order
 - Regional data for each sale
 
-## Folder Structure
-The repository is organized as follows:
-- **data/**: Contains raw data files, including the main sales dataset ['SALES_DATA.csv'](https://github.com/Rachaelehis/SALES-ANALYSIS/blob/main/Sales%20file.csv)
-- **notebooks/**: Jupyter notebooks for exploratory data analysis (EDA) and initial insights.
-- **scripts/**: Python scripts for data cleaning, transformations, and analysis.
-- **output/**: Contains any generated files or visualizations.
-- **dashboard/**: Power BI dashboard file and related resources.
-
 ## Analysis Steps
 1. **Data Cleaning and Preparation**:
    - Handle missing values in key columns.
