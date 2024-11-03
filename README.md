@@ -35,7 +35,7 @@ The project uses a CSV file ['SALES_DATA.csv'](https://github.com/Rachaelehis/SA
 This project analyzes customer performance data from a retail store. The goal is to uncover insights such as top-selling products, regional performance, and monthly sales revenue. These insights will be presented in an interactive Power BI dashboard for easy exploration.
 
 ## Data Source
-The project uses a CSV or Excel file (`CUSTOMER_DATA.csv` or `CUSTOMER_DATA.xlsx`) containing customer and sales transaction details. Key data columns include:
+The project uses a CSV or Excel file ['CUSTOMER_DATA.csv'](https://github.com/Rachaelehis/SALES-ANALYSIS/blob/main/CUSTOMER%20DATA%20CSV.csv) containing customer and sales transaction details. Key data columns include:
 - Customer ID and Customer Demographics
 - Product Information (Product Type, Unit Price, Quantity Sold)
 - Regional Data (Region where each transaction occurred)
