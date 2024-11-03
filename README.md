@@ -5,7 +5,7 @@
 This project aims to analyze the sales performance of a retail store using historical sales data. The objective is to uncover insights on top-selling products, regional performance, and monthly sales trends. The findings will be displayed in an interactive Power BI dashboard.
 
 ## Data Source
-The project uses a CSV file (`SALES_DATA.csv`) containing historical sales records. This dataset includes information on:
+The project uses a CSV file ['SALES_DATA.csv'](https://github.com/Rachaelehis/SALES-ANALYSIS/blob/main/SALES%20DATA%20CSV.csv) containing historical sales records. This dataset includes information on:
 - Order details (Order ID, Date)
 - Customer details
 - Product details (Product type, Unit price, Quantity sold)
