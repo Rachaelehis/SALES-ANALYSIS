@@ -1,4 +1,4 @@
-# SALES-ANALYSIS
+# LITA-sales-Capstone-Project
 # Sales Performance Analysis for a Retail Store
 
 ## Project Overview
